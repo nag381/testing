@@ -24,5 +24,6 @@
         echo $bmw->myColor();
     ?>    
     <h1>hello world</h1>
+    <h2>again hello world</h2>
 </body>
 </html>
